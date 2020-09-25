@@ -2,4 +2,3 @@
 
 Spring Boot Microservice example
 ------------------------------------
-- Test mirror method
